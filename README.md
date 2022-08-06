@@ -1,4 +1,4 @@
 # Hangman-game
 In this project I created a hangman game.
 
-I used Python programming language.
+I used in Python programming language.
